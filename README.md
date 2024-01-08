@@ -25,7 +25,7 @@ Upon successful completion of the course, students will be able to:
 * Summarize the strengths and weaknesses of Cloud architectures and technologies
 * Apply tools to create an automated pipeline from software change through automated tests, continuous integration, and deployment
 
-**Please use Canvas email for all course communication.**
+**Please use Canvas email for all course communication.** </br>
 **Images in this course are free of copyright unless otherwise noted.**
 
 ## Grading Percentages
@@ -70,5 +70,5 @@ Week 9 | Docker containers; Building and deploying custom docker containers | [D
 Week 10 | Amazon Web Services overview; scaling with EC2, storage with Amazon S3, Elastic load balancing | [AWS Intro](https://docs.aws.amazon.com/aws-technicalcontent/latest/awsoverview/introduction.html) | Create an AWS account and demonstrate the docker container from week 9 running on AWS.
 Week 11 | Managing software builds with AWS; manage Git repositories with AWS CodeCommit, build code, run tests, produce packages with AWS CodeBuild | [AWS DevOps](https://d1.awsstatic.com/whitepapers/AWS_DevOps.pdf?trk=gs_card) | Demonstrate using AWS tools for configuration management, automated tests, and building your Docker container.
 Week 12 | Continuous Deployment with AWS: AWS CodeDeploy, Blue-Green deployment | [AWS Continuous Deployment Pipeline](https://aws.amazon.com/getting-started/tutorials/continuousdeploymentpipeline/) | Create and deploy a new release of your Docker container using AWS tools.
-Week 13 | Automatio nand monitoring with AWS: AWS OpsWorks, Amazon CloudWatch | [AWS OpsWorks](https://console.aws.amazon.com/opsworks) [AWS CloudWatch](https://aws.amazon.com/cloudwatch/) | Add automated monitoring support to your Docker container using AWS tools.
+Week 13 | Automatio nand monitoring with AWS: AWS OpsWorks, Amazon CloudWatch | [AWS OpsWorks](https://console.aws.amazon.com/opsworks) </br> [AWS CloudWatch](https://aws.amazon.com/cloudwatch/) | Add automated monitoring support to your Docker container using AWS tools.
 Week 14 | Final Exam | Become a DevOps Engineer in 2023: [A Practical Roadmap](https://devopscube.com/become-devops-engineer) | |
