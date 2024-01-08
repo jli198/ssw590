@@ -2,11 +2,11 @@
 
 ![SWE](vesonder-swe-students-852x480.jpg)
 
-This course introduces students to the Software Engineering principles and practices of DevOps. DevOps helps companies to shorten development cycles and deliver higher quality products to customers more quickly by creating a culture of working together in a unified team, using automated processes throughout the product lifecycle, and focusing on continual improvement by monitoring and experimentation. Students will learn about the team culture, processes, technologies, and tools that enable successful DevOps teams to deliver better products faster. Prerequisites: Programming experience with Python, Java, or permission of the instructor.
-
 **Class Sessions** | **Virtual Office Hours (Live)** | **Faculty Name**
 --- | --- | ---
 Lectures will be recorded. Live lecture dates and times are listed in your Zoom section. They are held every Thursday at 9:30am on zoom. | Fridays, 11am to 1pm, and by appointment | [Gregg Vesonder](mailto:gvesonde@stevens.edu)
+
+This course introduces students to the Software Engineering principles and practices of DevOps. DevOps helps companies to shorten development cycles and deliver higher quality products to customers more quickly by creating a culture of working together in a unified team, using automated processes throughout the product lifecycle, and focusing on continual improvement by monitoring and experimentation. Students will learn about the team culture, processes, technologies, and tools that enable successful DevOps teams to deliver better products faster. Prerequisites: Programming experience with Python, Java, or permission of the instructor.
 
 ## Course Objectives
 
