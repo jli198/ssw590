@@ -30,7 +30,7 @@ Upon successful completion of the course, students will be able to:
 
 ## Grading Percentages
 
-- [X] 10% Class wrok
+- [X] 10% Class work
 - [X] 25% Mid-term
 - [X] 25% Final
 - [X] 40% Project
