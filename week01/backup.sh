@@ -8,7 +8,7 @@ function backup {
 		user=$(whoami)
 	else
 		if [ ! -d "/home/$1" ]; then
-			echo "Requested $1 user hoem directory doesn't exist."
+			echo "Requested $1 user home directory doesn't exist."
 			exit 1
 		fi
 		user=$1
