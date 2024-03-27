@@ -1,0 +1,20 @@
+Three-stooges:
+  -Moe
+  -Larry
+  -Curly
+
+Greggs-cars:
+  tesla: electric
+  acura: gas
+
+# Note two space indent
+# But no tabs!
+# White space is part of YAML formatting
+
+# this is full line comment
+
+Foo: bar #this is comment too
+
+Booleans:
+true = True, On or Yes
+false = False, Off or No
